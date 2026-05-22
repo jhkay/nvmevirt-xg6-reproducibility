@@ -1,8 +1,8 @@
 # NVMeVirt XG6 Reproducibility Appendix
 
-This repository provides the appendix material for the paper **"NVMe 에뮬레이터 NVMeVirt의 SSD 성능 재현 한계와 원인 분석"**.
+본 저장소는 논문 「NVMe 에뮬레이터 NVMeVirt의 SSD 성능 재현 한계와 원인 분석」에 대한 부록 자료를 제공하기 위해 구성되었습니다.
 
-The appendix was moved out of the manuscript so that benchmark logs, environment-control commands, repeatability data, and fio settings can be referenced through a public GitHub link.
+벤치마크 로그, 실험 환경 제어 명령어, 반복성 검증 데이터, fio 설정 등을 공개 GitHub 링크를 통해 참조할 수 있도록, 해당 부록 자료는 원고에서 분리하여 본 저장소에 수록하였습니다.
 
 ## Appendix
 
