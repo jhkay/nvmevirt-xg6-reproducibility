@@ -15,3 +15,8 @@
 ## Repository Contents
 
 - [`appendix.md`](appendix.md): 전체 부록 자료
+
+## Related Links
+
+- [NVMeVirt 공식 저장소](https://github.com/snu-csl/nvmevirt)
+- [NVMeVirt FAST 2023 논문](https://www.usenix.org/conference/fast23/presentation/kim-sang-hoon)
