@@ -14,4 +14,4 @@
 
 ## Repository Contents
 
-- [`appendix.md`](appendix.md): Full appendix material referenced by the paper.
+- [`appendix.md`](appendix.md): 전체 부록 자료
